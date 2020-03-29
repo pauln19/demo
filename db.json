@@ -14,5 +14,23 @@
       "product_image_url": null,
       "product_name": "pesto"
       }
-    ]
+    ],
+  "supermarkets": [
+    {
+      "address":null,
+      "commercial_activity_id":2,
+      "name":"Carrefour",
+      "position_lat":21.2,
+      "position_lon":42.12,
+      "queue_time":null
+    },
+    {
+      "address":null,
+      "commercial_activity_id":1,
+      "name":"Esseluna",
+      "position_lat":12.2,
+      "position_lon":36.12,
+      "queue_time": 20
+    }
+  ]
 }
